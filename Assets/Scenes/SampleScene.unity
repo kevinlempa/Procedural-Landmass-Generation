@@ -425,7 +425,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   mapWidth: 100
   mapHeight: 100
-  noiseScale: 0.3
+  noiseScale: 22.54
+  octaves: 4
+  persistence: 0.5
+  lacunarity: 2
+  seed: 4
+  offset: {x: 1.97, y: 21.55}
   autoUpdate: 1
 --- !u!4 &1545920004
 Transform:
